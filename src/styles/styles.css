@@ -1,3 +1,32 @@
 h1 {
   color:pink;
 }
+
+img{
+  width: 250px;
+  height: auto;
+}
+
+body {
+  background-color: cornsilk;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#titleBox {
+  background-color: rgb(239, 186, 234);
+  margin: 30px;
+  border: 2px solid white;
+}
+
+.listBoxIngredients {
+  background-color: aquamarine;
+  margin: 35px;
+  border: 1px dotted pink;
+}
+
+.listBoxMethod {
+  background-color: green;
+  margin: 35px;
+  border: 1px dotted pink;
+}
