@@ -1,4 +1,5 @@
 # mssososophie.github.io
-my website about pancakes for national coding week :)
+## hello world
+### my website about pancakes for national coding week :)
 
-Waiting for everyone to catch up is where it's at!
+*I love my rubber duckie*
